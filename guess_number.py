@@ -1,5 +1,4 @@
 import random
-"""Пример для GitHub"""
 
 def guess_number():
     number = random.randint(1, 100)
