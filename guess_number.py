@@ -1,5 +1,5 @@
 import random
-
+"""Комментрай"""
 def guess_number():
     number = random.randint(1, 100)
     tries = 0
