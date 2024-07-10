@@ -23,5 +23,7 @@ def guess_number():
         guess_number()
     else:
         print("Спасибо за игру!")
+        pass
 
 guess_number()
+
